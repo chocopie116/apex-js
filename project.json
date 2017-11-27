@@ -1,0 +1,8 @@
+{
+  "name": "thorn",
+  "description": "thorn-lambda",
+  "memory": 128,
+  "timeout": 5,
+  "role": "arn:aws:iam::561275206473:role/thorn_lambda_function",
+  "environment": {}
+}
